@@ -31,8 +31,9 @@ Use the method to find the value of the cell at coordinates 2, 2 (staring at 0 i
 Assert that the value of the cell is "Ventosanzap"
 
 Steps to start:
-1 Clone/Download the project into your local 
+1. Clone/Download the project into your local 
 2. Open command prompt and navigate to project location 
-3. 3. Execute the following Maven command's mvn clean: To clean th maven repo 
-4. mvn install: To install the maven requirements 
-5. mvn test: To execute the test scenarios
+3. Execute the following Maven command's 
+       mvn clean: To clean th maven repo 
+       mvn install: To install the maven requirements 
+       mvn test: To execute the test scenarios
